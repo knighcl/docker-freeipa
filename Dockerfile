@@ -1,5 +1,5 @@
 # Clone from the Fedora rawhide image
-FROM fedora:rawhide
+FROM fedora:21
 
 MAINTAINER Jan Pazdziora
 
